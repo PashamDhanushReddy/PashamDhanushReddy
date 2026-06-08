@@ -84,11 +84,9 @@ I'm always open to collaborating on interesting projects and discussing new idea
 
 **Connect with me:**
 
-- 📧 Email: [Add your email]
-- 💼 LinkedIn: [Add your LinkedIn URL]
-- 🎥 YouTube: [Add your YouTube URL]
-- 📝 Medium: [Add your Medium URL]
-- 📸 Instagram: [Add your Instagram URL]
+- 📧 Email: pashamdhanushreddy@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/pasham-dhanush-reddy-10b322375/
+- 📸 Instagram: https://www.instagram.com/mr_reddy_1729?igsh=MWx0Yjh0Zzc0b2I0bg%3D%3D&utm_source=qr
 - 🌐 Portfolio: [Coming Soon]
 
 </div>
