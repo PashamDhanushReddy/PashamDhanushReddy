@@ -1,5 +1,8 @@
 <div align="center">
 
+<!-- Visitor Counter -->
+<img src="https://komarev.com/ghpvc/?username=PashamDhanushReddy&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views">
+
 # 👋 **PASHAM DHANUSH REDDY**
 
 <a href="https://readme-typing-svg.demolab.com">
