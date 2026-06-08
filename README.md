@@ -39,7 +39,7 @@ I'm a passionate **Software Developer**, **Prompt Engineer**, and **AI/ML Engine
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6B6B?style=for-the-badge&logo=api&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6B6B?style=for-the-badge&logoColor=white)
 
 ### **Databases**
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
@@ -56,11 +56,14 @@ I'm a passionate **Software Developer**, **Prompt Engineer**, and **AI/ML Engine
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PashamDhanushReddy&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+### Stats Card
+![PashamDhanushReddy GitHub stats](https://github-readme-stats.vercel.app/api?username=PashamDhanushReddy&theme=tokyonight&show_icons=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=PashamDhanushReddy&theme=tokyonight&hide_border=true)
+### GitHub Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=PashamDhanushReddy&theme=tokyonight&hide_border=true)](https://github.com/PashamDhanushReddy)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PashamDhanushReddy&layout=compact&theme=tokyonight&hide_border=true)
+### Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PashamDhanushReddy&layout=compact&theme=tokyonight)
 
 </div>
 
@@ -70,7 +73,7 @@ I'm a passionate **Software Developer**, **Prompt Engineer**, and **AI/ML Engine
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=PashamDhanushReddy&theme=onedark&no-frame=true&row=2&column=3)
+[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=PashamDhanushReddy&theme=onedark&no-frame=true&row=2&column=3)](https://github.com/PashamDhanushReddy)
 
 </div>
 
