@@ -6,7 +6,7 @@
 <!-- Animated Wave -->
 <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" alt="wave">
 
-# **LYOUK NAMEJ**
+# **Pasham Dhanush Reddy**
 
 <!-- Typing Animation -->
 <a href="https://github.com/PashamDhanushReddy">
