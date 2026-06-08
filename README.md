@@ -2,9 +2,11 @@
 
 # 👋 **PASHAM DHANUSH REDDY**
 
-**Software Developer | Prompt Engineer | AI/ML Engineer**
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Software+Developer;Prompt+Engineer;AI%2FML+Engineer;Building+Intelligent+Solutions" alt="Typing animation">
+</a>
 
-**Building Intelligent Solutions | 2+ Years Experience**
+**2+ Years Experience**
 
 ---
 
