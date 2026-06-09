@@ -97,6 +97,7 @@ I'm always open to collaborating on interesting projects and discussing new idea
 | 💼 **LinkedIn** | [Pasham Dhanush Reddy](https://www.linkedin.com/in/pasham-dhanush-reddy-10b322375/) |
 | 📸 **Instagram** | [@mr_reddy_1729](https://www.instagram.com/mr_reddy_1729/) |
 | 💻 **GitHub** | [PashamDhanushReddy](https://github.com/PashamDhanushReddy) |
+| 🌐 **Portfolio** | [Visit My Portfolio](https://portfolio.pashamdhanushreddy.workers.dev/) |
 
 </div>
 
