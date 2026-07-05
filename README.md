@@ -9,7 +9,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Software+Developer;Prompt+Engineer;AI%2FML+Engineer;Building+Intelligent+Solutions" alt="Typing animation">
 </a>
 
-**2+ Years Experience**
+**2+ Years of hands-on Experience**
 
 ---
 
@@ -17,7 +17,7 @@
 
 ## 👤 **About Me**
 
-I'm a passionate **Software Developer**, **Prompt Engineer**, and **AI/ML Engineer** with **2+ years** of hands-on experience building scalable applications and intelligent solutions. I specialize in full-stack development with a focus on AI/ML integration and cloud deployment.
+I'm a passionate **Software Developer**, **Prompt Engineer**, and **AI/ML Engineer** with **2+ years of hands-on experience**  building scalable applications and intelligent solutions. I specialize in full-stack development with a focus on AI/ML integration and cloud deployment.
 
 ### 🎯 **Who Am I?**
 - 💻 **Full-Stack Developer** - Crafting seamless user experiences with modern technologies
