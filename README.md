@@ -17,7 +17,7 @@
 
 ## 👤 **About Me**
 
-I'm a passionate **Software Developer**, **Prompt Engineer**, and **AI/ML Engineer** with **2+ years of hands-on experience**  building scalable applications and intelligent solutions. I specialize in full-stack development with a focus on AI/ML integration and cloud deployment.
+I'm a passionate **Software Developer**, **Prompt Engineer**, and **AI/ML Engineer** with **2 years of hands-on experience**  building scalable applications and intelligent solutions. I specialize in full-stack development with a focus on AI/ML integration and cloud deployment.
 
 ### 🎯 **Who Am I?**
 - 💻 **Full-Stack Developer** - Crafting seamless user experiences with modern technologies
