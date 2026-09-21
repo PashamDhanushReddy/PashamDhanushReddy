@@ -1,7 +1,8 @@
 <div align="center">
 
 <!-- Visitor Counter -->
-<img src="https://komarev.com/ghpvc/?username=PashamDhanushReddy&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views">
+
+<img src="https://komarev.com/ghpvc/?username=PashamDhanushReddy&label=Profile%20Views&color=blue&style=flat-square&base=10000" alt="Profile Views">
 
 # 👋 **PASHAM DHANUSH REDDY**
 
