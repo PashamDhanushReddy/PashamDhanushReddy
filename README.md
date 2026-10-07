@@ -10,7 +10,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Software+Developer;Prompt+Engineer;AI%2FML+Engineer;Building+Intelligent+Solutions" alt="Typing animation">
 </a>
 
-**2 Years of hands-on Experience on Industry Oriented Projects**
+**2+ Years of hands-on Experience on Industry Oriented Projects**
 
 ---
 
